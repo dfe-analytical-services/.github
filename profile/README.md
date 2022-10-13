@@ -14,7 +14,7 @@ one of the [project owners](#contacts)
 
 ## Governance
 Governance is overseen by a working group of senior analysts at DfE. 
-Please see [the full guidelines]() for more information
+Please see [the full guidelines](governance/README.md) for more information
 
 ## Contacts
 * Cameron Race ([@cjrace](https://github.com/cjrace)) (for Central Analysis Division)
