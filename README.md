@@ -30,7 +30,7 @@ should considering hosting your code here if all of the following are true:
   self-contained tools or other resources such as training materials.
 
 ** ... more specific rules here? E.g. you must complete your 'responsible for 
-information** training etc?
+information** training etc? **
 
 ## Contacts
 
