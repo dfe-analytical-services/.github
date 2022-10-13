@@ -14,3 +14,7 @@ Other possible rules we should think about:
 * Training you must complete to work on projects, e.g. responsible for 
   information
 * You must have 2-factor auth enabled
+* All repos should have a readme with an initial section which concisely
+  describes what the repo is for and who it's aimed at... ? I think
+  standardising this would be nice if we can make it quite flexible.
+  A few repos I've checked don't make this super obvious.
