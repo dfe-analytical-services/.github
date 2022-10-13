@@ -5,12 +5,12 @@
 Here you can find:
 
 * Open-source tools developed by civil servants at the DfE, e.g. R packages 
-  we think others may find useful
-* Projects which are public for transparency purposes, e.g. code for our
+  we think others may also find useful
+* DfE projects which are public for transparency purposes, e.g. code for our
   publicly available Shiny apps
 
 If you are a DfE analyst and would like to create a new repo, please contact
-one of the [project owners](#contacts)
+one of the [project owners](#contacts).
 
 ## Governance
 Governance is overseen by a working group of analysts at DfE. Please see [the full guidelines](https://github.com/dfe-analytical-services/.github/blob/main/governance/README.md) for more information.
