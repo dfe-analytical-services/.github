@@ -19,5 +19,4 @@ Governance is overseen by a working group of analysts at DfE. Please see [the fu
 * Cameron Race ([@cjrace](https://github.com/cjrace)) (for Central Analysis Division)
 * Jacob Scott ([@wurli](https://github.com/wurli)) (for DfE R Community)
 * Laura Selby ([@lauraselby](https://github.com/lauraselby)) (for anything else)
-
 * ... Anyone else?
