@@ -1,22 +1,14 @@
 # DfE Analytical Services
 
-> **Warning** the name of the organisation is under review. Some options: DfE R Community, DfE Analytical Community, DfE Data Science, Department for Education,DfE Open-Source
+Here you can find a variety of open-source tools and scripts developed by civil servants at the DfE.
 
-Here you can find:
-
-* Open-source tools developed by civil servants at the DfE, e.g. R packages 
-  we think others may also find useful
-* DfE projects which are public for transparency purposes, e.g. code for our
-  publicly available Shiny apps
-
-If you are a DfE analyst and would like to create a new repo, please contact
-one of the [project owners](#contacts).
+If you are a DfE analyst / project leader and would like to create a new repository to hold your code in, or migrate an existing repository to this organisation, please contact one of the [project owners](#project-owners).
 
 ## Governance
 Governance is overseen by a working group of analysts at DfE. Please see [the full guidelines](https://github.com/dfe-analytical-services/.github/blob/main/governance/README.md) for more information.
 
-## Contacts
-* Cameron Race ([@cjrace](https://github.com/cjrace)) (for Central Analysis Division)
-* Jacob Scott ([@wurli](https://github.com/wurli)) (for DfE R Community)
-* Laura Selby ([@lauraselby](https://github.com/lauraselby)) (for anything else)
-* ... Anyone else?
+## Project owners
+* Cam Race ([@cjrace](https://github.com/cjrace))
+* Laura Selby ([@lauraselby](https://github.com/lauraselby))
+* Jacob Scott ([@wurli](https://github.com/wurli)) - for DfE R Community
+* ...think your name should be on here? Get in touch with one of the above!
