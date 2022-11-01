@@ -10,5 +10,3 @@ Governance is overseen by a working group of analysts at DfE. Please see [the fu
 ## Project owners
 * Cam Race ([@cjrace](https://github.com/cjrace))
 * Laura Selby ([@lauraselby](https://github.com/lauraselby))
-* Jacob Scott ([@wurli](https://github.com/wurli)) - for DfE R Community
-* ...think your name should be on here? Get in touch with one of the above!
