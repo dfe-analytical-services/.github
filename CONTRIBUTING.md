@@ -78,3 +78,13 @@ If you don't have access to push to the repo itself, you should either request m
 In the case of the latter, changes can then be made in a new branch in your own repo. Once ready, you should raise a PR in the main GitHub repository, pointing at the **main** branch and one of the repository maintainers will be able to review your changes.
 
 Once a pull request is reviewed and ready to be merged in, all commits in the PR should be squashed as a part of the merge to keep the Git history shorter and easier to navigate.
+
+### General settings
+
+Unused features should be turned off to reduce clutter, e.g. Wikis, Dicussions, Projects. For most repositories only Issues and Preserve this repository should be turned on.
+
+Allow merge commits and Allow rebase merging should be turned off, to encourage the use of squash merging from pull requests.
+
+Always suggest updating pull request branches should be turned on to give the prompt to easily rebase or update branches in open pull requests.
+
+Head branches should be set to be deleted automatically - once a branch is merged in you should be deleting it and then starting new branches for any further contributions.
