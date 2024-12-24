@@ -88,3 +88,12 @@ Allow merge commits and Allow rebase merging should be turned off, to encourage 
 Always suggest updating pull request branches should be turned on to give the prompt to easily rebase or update branches in open pull requests.
 
 Head branches should be set to be deleted automatically - once a branch is merged in you should be deleting it and then starting new branches for any further contributions.
+
+### GitHub specific files
+
+We have a number of templates for GitHub specific files that we regularly use across our repositories are can be adapted for other respositories where useful. These include:
+
+- [Code of conduct](https://github.com/dfe-analytical-services/.github/blob/main/CODE_OF_CONDUCT.md)
+- [Pull request template](https://github.com/dfe-analytical-services/.github/blob/main/.github/PULL_REQUEST_TEMPLATE.md)
+- [Issue templates](https://github.com/dfe-analytical-services/.github/tree/main/.github/ISSUE_TEMPLATE)
+- [Security policy](https://github.com/dfe-analytical-services/.github/blob/main/.github/SECURITY.md)
