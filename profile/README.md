@@ -1,7 +1,5 @@
 # DfE Analytical Services
 
-## About
-
 Here you can find a variety of analytical open-source tools and scripts developed by civil servants at the DfE.
 
 ## Contributing
