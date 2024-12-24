@@ -1,4 +1,4 @@
-# About
+# DfE Analytical Services GitHub Organisation
 
 This repo contains documents around governance and how this organisation should be
 used, including notes and example best practices used within the Statistics Services Unit who manage this organisation overall.
