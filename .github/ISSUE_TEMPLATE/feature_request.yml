@@ -8,35 +8,35 @@ body:
     value: |
       Thank for you for taking the time to submit a suggestion!
 
-    - type: textarea
-      id: description
-      attributes:
-        label: Description
-        description: Briefly describe the feature you'd like to see.
-      validations:
-        required: true
-  
-    - type: textarea
-      id: use_case
-      attributes:
-        label: Use case
-        description: Explain the use case or scenario where this feature would be valuable.
-        placeholder: As a ..., I want ..., So that ...
-      validations:
-        required: true
-  
-    - type: textarea
-      id: importance
-      attributes:
-        label: Why this is important
-        description: Describe how this feature affects you and others who may use the project. What would happen if this isn't added?
-      validations:
-        required: true
-  
-    - type: textarea
-      id: additional_context
-      attributes:
-        label: Additional Context
-        description: Provide any additional context or information related to the feature request to help those who may pick it up.
-      validations:
-        required: true
+- type: textarea
+  id: description
+  attributes:
+    label: Description
+    description: Briefly describe the feature you'd like to see.
+  validations:
+    required: true
+
+- type: textarea
+  id: use_case
+  attributes:
+    label: Use case
+    description: Explain the use case or scenario where this feature would be valuable.
+    placeholder: As a ..., I want ..., So that ...
+  validations:
+    required: true
+
+- type: textarea
+  id: importance
+  attributes:
+    label: Why this is important
+    description: Describe how this feature affects you and others who may use the project. What would happen if this isn't added?
+  validations:
+    required: true
+
+- type: textarea
+  id: additional_context
+  attributes:
+    label: Additional Context
+    description: Provide any additional context or information related to the feature request to help those who may pick it up.
+  validations:
+    required: true
