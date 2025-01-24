@@ -1,9 +1,8 @@
 name: Bug report
 description: Tell us about an issue you have found
-title: ''
-labels: 
-    - bug
-assignees: ''
+title: "Bug report"
+labels: ["bug"]
+assignees: ""
 
 body:
 - type: markdown
