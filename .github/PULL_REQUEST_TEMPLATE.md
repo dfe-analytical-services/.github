@@ -14,7 +14,7 @@
 
 <!-- Customise this checklist based on expectations for your repository -->
 
-- [ ] I have tested these changes locally using `shinytest2::test_app()`<!-- replace with your specific automated test command if different -->
+- [ ] I have tested these changes locally using automated tests <!-- replace with your specific automated test command e.g. `shinytest2::test_app()` -->
 - [ ] I have updated the documentation
 - [ ] I have added or updated automated tests for these changes
 
